@@ -2,7 +2,7 @@
 - 👀 
 - 🌱 
 - 💞️ 
-- 📫 How to reach me with my email: kaneflores911@gmail.com || kane.r.flores5378@gmail.com
+- 📫 How to reach me with my email: kane.r.flores5378@gmail.com
 
 <!---
 kaneflores/kaneflores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
